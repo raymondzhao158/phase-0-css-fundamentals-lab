@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{color: red;}
+
+header {text-align: center;}
+
+
+
+.img-container {
+  text-align: center;
+  width: 900px;
+}
+
+a {
+  width: 10px;
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+  color:blueviolet;
+}
+
+.diva {float: left;}
+.divb {float: left;}
+.divc{float: right;}
+.divd {float: right;}
